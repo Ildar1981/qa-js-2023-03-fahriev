@@ -1,3 +1,4 @@
+//1 задание
 let lisa = 1
 let deadushka = 2;
 let rabbit = 3;
@@ -16,7 +17,7 @@ let rabbit = 3;
   alert("неизвестная операция")
 
   }
-
+//2 задание
   let voice = 'Дед Мороз! Дед Мороз! Дед Мороз!'
 let name = 'santa'
 function newYear(name){
