@@ -28,3 +28,4 @@ function newYear(name){
     }
 }
 newYear(name)
+//домашняя работа
