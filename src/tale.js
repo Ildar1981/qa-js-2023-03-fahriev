@@ -29,3 +29,19 @@ function newYear(name){
 }
 newYear(name)
 //домашняя работа
+
+//работа с замечаниями по доьашней работе
+let person = "lisa"
+let person2 = 'deadushka'
+let person3 = 'rabbit'
+colobok('deadushka')
+
+function colobok(person){
+    if(person=="lisa"){
+        console.log("меня сьели")
+    }else if(person=='deadushka'){
+        console.log("Я от дедушки ушёл")
+    }else{
+        console.log("я живой")
+    }
+}
